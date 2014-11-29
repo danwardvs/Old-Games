@@ -1,0 +1,21 @@
+Physics:
+
+Whats new:
+
+
+Version 1.5
+*Added error messsages
+*Added high quality Sfx
+*Added "n" key for new iPod
+
+
+Version 1.4
+
+*Added 8-bit Sfx
+*Bug Fixes
+
+
+Version 1.2
+
+*HD Textures
+*Better Textures
